@@ -1,0 +1,7 @@
+export const testimonials = [
+  { id: 1, name: 'Natalya E.', role: 'Yelp guest', rating: 5, text: 'Friendly staff and a lovely drink — wish hours and menu lived on a real site, not only IG.', avatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Natalya' },
+  { id: 2, name: 'Catherine Z.', role: 'Ube fan', rating: 5, text: 'Cute shop and ube coffee to die for. Perfect for a Queen Anne homepage.', avatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Catherine' },
+  { id: 3, name: 'Aimee R.', role: 'Infatuation', rating: 5, text: 'Hawaiian and Korean-leaning drinks near Seattle Center — exciting neighborhood update.', avatar: 'https://images.unsplash.com/photo-1487412720507-e7ab130641c0?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Aimee' },
+  { id: 4, name: 'Britt H.', role: 'Local', rating: 5, text: 'Small yet cute space. Do Ube was good — a site would help before the trip.', avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Britt' },
+  { id: 5, name: 'Sam K.', role: 'IG follower', rating: 5, text: 'Follow @orangegoosecoffee for hours — the feed deserves a home page.', avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Sam' },
+]
